@@ -1,0 +1,73 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnG-dfz6TD7HHzd62xDzuL8TNdZzEA1T2WHA&usqp=CAU",
+            "nama": "Americano",
+            "size": "250 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?client=ms-android-xiaomi-rvo2&sxsrf=APwXEdei2WDY6mQlNcBrxQdO4lT-kX753w:1686834862739&q=americano&tbm=shop&sa=X&ved=2ahUKEwjt3qbGrcX_AhWJbmwGHfNGCBYQ0pQJegQICBAB&biw=393&bih=736&dpr=2.75"
+        },
+        {
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyL-yilm2nOsJFa_dmP-wBVFnAOT1NeIwHSA&usqp=CAU",
+          "nama": "Wamena",
+          "size": "200 Gram",
+          "harga": "130.000",
+          "link": "https://www.google.com/search?q=jenis+kopi+arabika+wamena&client=ms-android-xiaomi-rvo2&sa=X&biw=393&bih=736&tbm=shop&sxsrf=APwXEddoYKjktceYe3CjhHjkhJlbTErc6g%3A1686835110684&ei=pg-LZL-HKdvx4-EPyNy2wAw&oq=jenis+kopi+arabika+wamena&gs_lcp=Cg5tb2JpbGUtc2gtc2VycBADOgUIIRCgAToICCEQFhAeEB06BwghEKABEApQhQhY-w1gig9oAHAAeACAAeABiAGgC5IBBTAuNi4ymAEAoAEBqgESbW9iaWxlLXNoLXdpei1zZXJwwAEB&sclient=mobile-sh-serp"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "gorengan": [
+      {
+        "foto": "https://img.kurio.network/QH1TeX-2eRQ559hB1dTfR4ZEcBs=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/21/02/24/4f99af33-b3c1-47cd-a219-f1a5289f8b29.jpe",
+        "nama": "Mendoan",
+        "size": "5 buah",
+        "harga": "20.000",
+        "link": "https://www.google.com/search?q=mendoan+&client=ms-android-xiaomi-rvo2&sa=X&hl=id&biw=393&bih=736&tbm=shop&sxsrf=APwXEddegbxlY9PhewyBd1WHfa9yzmG28A%3A1686835613320&ei=nRGLZIXPEpHXseMP_Km3kAg&oq=mendoan+&gs_lcp=Cg5tb2JpbGUtc2gtc2VycBADMgQIIxAnMgUIABCABDIFCAAQgAQyBggAEAUQHjIGCAAQBRAeOgcIIRCgARAKUMIGWOMNYIARaABwAHgCgAGWAogBxAuSAQUwLjcuMpgBAKABAaoBEm1vYmlsZS1zaC13aXotc2VycMABAQ&sclient=mobile-sh-serp"
+      },
+      {
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMGCT8Z37PApmB_XXh9FKP-R1oi2oWjgvbg&usqp=CAU",
+        "nama": "Hihang Hoheng",
+        "size": "7 Buah",
+        "harga": "20.000",
+        "link": "https://www.google.com/search?client=ms-android-xiaomi-rvo2&hl=id&sxsrf=APwXEdesR09fy8N2B4y04brw_2KeusAanw:1686835830698&q=pisang+goreng&tbm=shop&sa=X&ved=2ahUKEwjRve6TscX_AhUexTgGHbZRAWYQ0pQJegQICBAB&biw=393&bih=736&dpr=2.75"
+      }
+      
+      ]
+    
+}
