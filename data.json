@@ -68,6 +68,39 @@
         "link": "https://www.google.com/search?client=ms-android-xiaomi-rvo2&hl=id&sxsrf=APwXEdesR09fy8N2B4y04brw_2KeusAanw:1686835830698&q=pisang+goreng&tbm=shop&sa=X&ved=2ahUKEwjRve6TscX_AhUexTgGHbZRAWYQ0pQJegQICBAB&biw=393&bih=736&dpr=2.75"
       }
       
+      ],
+    "best-seller"  : [
+      {
+        "foto": "/images/produk/product_capuchino.jpg",
+        "nama": "Cappuchino Arabica",
+        "size": "500 Gram",
+        "harga": "200.000",
+        "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+      },
+      {
+        "foto": "/images/produk/product_espresso.jpg",
+        "nama": "Pahit Arabica",
+        "size": "100 Gram",
+        "harga": "100.000",
+        "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        
+      },
+      {
+        "foto": "/images/produk/product_kopi_susu.jpg",
+        "nama": "Kopsus Robusta",
+        "size": "100 Gram",
+        "harga": "180.000",
+        "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+      },
+      {
+        "foto": "/images/produk/product_latte.jpg",
+        "nama": "Latte Arabica",
+        "size": "150 Gram",
+        "harga": "150.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      }
+      
+      
       ]
     
 }
