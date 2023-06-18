@@ -71,14 +71,14 @@
       ],
     "best-seller"  : [
       {
-        "foto": "/images/produk/product_capuchino.jpg",
+        "foto": "images/produk/product_capuchino.jpg",
         "nama": "Cappuchino Arabica",
         "size": "500 Gram",
         "harga": "200.000",
         "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
       },
       {
-        "foto": "/images/produk/product_espresso.jpg",
+        "foto": "images/produk/product_espresso.jpg",
         "nama": "Pahit Arabica",
         "size": "100 Gram",
         "harga": "100.000",
@@ -86,14 +86,14 @@
         
       },
       {
-        "foto": "/images/produk/product_kopi_susu.jpg",
+        "foto": "images/produk/product_kopi_susu.jpg",
         "nama": "Kopsus Robusta",
         "size": "100 Gram",
         "harga": "180.000",
         "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
       },
       {
-        "foto": "/images/produk/product_latte.jpg",
+        "foto": "images/produk/product_latte.jpg",
         "nama": "Latte Arabica",
         "size": "150 Gram",
         "harga": "150.000",
